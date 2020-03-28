@@ -13,10 +13,10 @@
             It wont add nothing if there is at least one character
         </li>
         <li>
-            The members in the listed can be checked (they will turn grey and have a line in the midle)
+            The members in the list can be checked (they will turn grey and have a line in the midle)
         </li>
         <li>
-            The members in the listed can also be deleted completely
+            The members in the list can also be deleted completely
         </li>
     </ol>
 </body>
